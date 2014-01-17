@@ -1,0 +1,24 @@
+﻿Build started 4/10/2012 5:49:38 PM.
+     1>Project "C:\Users\AntuanPC\Documents\Academic\Year 3\Semester 2\Theory Of Computing\TOC Parsar\TOC Parsar\TOC Parsar\TOC Parsar.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\TOC Parsar.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\antuanpc\documents\academic\year 3\semester 2\theory of computing\toc parsar\toc parsar\toc parsar\main.cpp(85): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\antuanpc\documents\academic\year 3\semester 2\theory of computing\toc parsar\toc parsar\toc parsar\main.cpp(239): warning C4805: '==' : unsafe mix of type 'int' and type 'bool' in operation
+     1>c:\users\antuanpc\documents\academic\year 3\semester 2\theory of computing\toc parsar\toc parsar\toc parsar\main.cpp(243): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\AntuanPC\Documents\Academic\Year 3\Semester 2\Theory Of Computing\TOC Parsar\TOC Parsar\Debug\TOC Parsar.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\TOC Parsar.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\AntuanPC\Documents\Academic\Year 3\Semester 2\Theory Of Computing\TOC Parsar\TOC Parsar\Debug\TOC Parsar.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\AntuanPC\Documents\Academic\Year 3\Semester 2\Theory Of Computing\TOC Parsar\TOC Parsar\Debug\TOC Parsar.lib" /MACHINE:X86 Debug\main.obj
+         LINK : C:\Users\AntuanPC\Documents\Academic\Year 3\Semester 2\Theory Of Computing\TOC Parsar\TOC Parsar\Debug\TOC Parsar.exe not found or not built by the last incremental link; performing full link
+         TOC Parsar.vcxproj -> C:\Users\AntuanPC\Documents\Academic\Year 3\Semester 2\Theory Of Computing\TOC Parsar\TOC Parsar\Debug\TOC Parsar.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\AntuanPC\Documents\Academic\Year 3\Semester 2\Theory Of Computing\TOC Parsar\TOC Parsar\Debug\TOC Parsar.exe;#1" /manifest "Debug\TOC Parsar.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\TOC Parsar.unsuccessfulbuild".
+         Touching "Debug\TOC Parsar.lastbuildstate".
+     1>Done Building Project "C:\Users\AntuanPC\Documents\Academic\Year 3\Semester 2\Theory Of Computing\TOC Parsar\TOC Parsar\TOC Parsar\TOC Parsar.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.96
